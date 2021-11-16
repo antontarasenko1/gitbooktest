@@ -10,7 +10,7 @@
 * [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
 * [Change requests](the-basics/change-requests.md)
 
-## Publishing
+## Publishingqwe
 
 * [Publishing your content](publishing/publishing-your-content.md)
 
