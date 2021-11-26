@@ -1,14 +1,6 @@
 # Table of contents
 
-* [Get Started](README.md)
-
-## The Basics
-
-* [Spaces](the-basics/spaces.md)
-* [Collections](the-basics/collections.md)
-* [The GitBook editor](the-basics/the-gitbook-editor.md)
-* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
-* [Change requests](the-basics/change-requests.md)
+* [Get Started](/)
 
 ## Publishingqwe
 
@@ -18,9 +10,6 @@
 
 * [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
 
-***
-
-* [Page Test](page-test.md)
 
 ## Next steps
 
