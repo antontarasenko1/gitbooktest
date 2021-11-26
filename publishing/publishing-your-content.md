@@ -7,5 +7,5 @@ There are a bunch of options for publishing – not everything has to go straigh
 {% embed url="https://docs.gitbook.com/spaces/space-visibility" %}
 
 {% hint style="info" %}
-**Good to know!** We're still documenting this version of GitBook. Some documentation links might be out of date for now!
+**Good to know!** We're still documenting this vers ion of GitBook. Some documentation links might be out of date for now!
 {% endhint %}
