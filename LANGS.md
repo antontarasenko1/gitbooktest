@@ -1,3 +1,2 @@
 * [English](en/)
-* [French](fr/)
-* [Español](es/)
+* [Russian](ru/)
