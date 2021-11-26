@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Get Started](/)
+* [README](README.md)
+* [Get dfgdfhfghsfghsfgh](get-dfgdfhfghsfghsfgh.md)
 
 ## Publishingqwe
 
@@ -9,7 +10,6 @@
 ## Tips and tricks
 
 * [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
-
 
 ## Next steps
 
