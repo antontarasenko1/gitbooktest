@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Get Started](README.md)
+* [Get Started](../ru/)
 
 ## Publishingqwe
 
-* [Publishing your content](publishing/publishing-your-content.md)
+* [Publishing your content](../ru/publishing/publishing-your-content.md)
 
 ## Tips and tricks
 
@@ -12,8 +12,8 @@
 
 ***
 
-* [Page Test](page-test.md)
+* [Page Test](../ru/page-test.md)
 
 ## Next steps
 
-* [What nextsdfsdfsdfsdf?](next-steps/what-next.md)
+* [What nextsdfsdfsdfsdf?](../ru/next-steps/what-next.md)
