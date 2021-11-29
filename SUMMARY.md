@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Русский](README.md)
-* [Get dfgdfhfghsfghsfgh](get-dfgdfhfghsfghsfgh.md)
+* [Get started](README.md)
 
 ## Publishingqwe
 
