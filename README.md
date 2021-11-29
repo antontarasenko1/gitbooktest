@@ -1,5 +1,5 @@
 ---
-description: English
+description: Русский
 ---
 
 # Get started
